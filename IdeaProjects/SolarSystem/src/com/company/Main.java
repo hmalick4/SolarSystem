@@ -9,5 +9,11 @@ public class Main {
         andro.planet=4;
         andro.moon=1;
 
+        featureSun sunny= new featureSun();
+        sunny.color="yellow";
+        sunny.heat=100;
+        sunny.radius=5;
+        sunny.temperature=12;
+        
     }
 }
