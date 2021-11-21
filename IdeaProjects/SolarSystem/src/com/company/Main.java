@@ -14,6 +14,9 @@ public class Main {
         sunny.heat=100;
         sunny.radius=5;
         sunny.temperature=12;
+
+        andro.sun=3;
         
+
     }
 }
